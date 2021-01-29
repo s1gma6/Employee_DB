@@ -10,11 +10,17 @@ Hopeful of using MongoDB or other database management systems like MySQL along w
 coded using Django. 
 
 The idea is simple:
+
   -Get the employees' data
+  
   -Store it in objects which can be further manipulated into databases
+  
   -Work on a front-end application using Flask or Django
+  
   -Implement Back-End development more than front-end development
+  
   -Use inheritance, encapsulation and polymorphism
+  
   -Used for storing company's data
   
  
